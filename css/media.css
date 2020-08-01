@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+    .h1_title {
+     font-size: 2em;
+    }
+    .about_title {
+       font-size: 2em; 
+    }
+    .temlate_p {
+        font-size: 10px;
+    }
+    .about_p {
+        font-size: 8px;
+    }
+    .lorem {
+        font-size: 2em;
+    }
+    .serv_title {
+        font-size: 2em;
+    }
+    .serv_p {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .h1_title { 
+        font-size: 1em;
+    }
+    .about_title {
+        font-size: 1em; 
+     }
+     .temlate_p {
+        font-size: 7px;
+    }
+}
